@@ -11,5 +11,6 @@ I have been working in Information Technology for over 12 years. I started worki
 -Cloud Security Posture Management <br>
 -Assessments for cloud suitability, Secure SDLC, and cloud security <br>
 
-[LinkedIn](www.linkedin.com/in/sandeep-beegala) <br>
-![image](https://github.com/sbeegala/sbeegala/blob/main/LI-In-Bug.png)
+[<img src="https://github.com/sbeegala/sbeegala/blob/main/LI-In-Bug.png" width="25">](www.linkedin.com/in/sandeep-beegala) <br>
+
+
