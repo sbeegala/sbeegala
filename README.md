@@ -13,9 +13,8 @@
 I have been working in Information Technology for over 12 years. I started working on Microsoft Azure 4 years ago and have been helping organizations succeed in their cloud transformation journey.
 
 ---------------
+<img src="https://github.com/sbeegala/sbeegala/blob/main/azure-svgrepo-com.svg" width="75">
 
-
-
------
+--------------
 
 
