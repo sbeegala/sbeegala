@@ -1,3 +1,5 @@
+<img src="https://github.com/sbeegala/sbeegala/blob/main/linkedin%20final%20banner.png">
+
 # Hi, I am Sandeep Beegala !
 
 I have been working in Information Technology for over 12 years. I started working on Microsoft Azure 4 years ago and have been helping organizations succeed in their cloud transformation journey. I provided Azure consultation to clients across retail, insurance, finance, and healthcare industries in the following areas:
