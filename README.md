@@ -20,6 +20,8 @@ I have been working in Information Technology for over 12 years. I started worki
 
 --------------
 
-
+[2-Tier architecture](https://github.com/sbeegala/two-tier-architecture-azure-terraform) <br>
+[3-Tier architecture](https://github.com/sbeegala/three-tier-architecture-azure-terraform) <br>
+[Hub-Spoke Network Topology](https://github.com/sbeegala/hub-spoke-network-topology-azure-terraform) <br>
 
 ---------------
