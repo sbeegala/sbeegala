@@ -16,7 +16,7 @@ I have been working in Information Technology for over 12 years. I started worki
 
 <!--image logos-->
 
-<img src="https://github.com/sbeegala/sbeegala/blob/main/images/Azure.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/sbeegala/sbeegala/blob/main/images/Azure%20DevOps.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/sbeegala/sbeegala/blob/main/images/github.svg" width="25">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/sbeegala/sbeegala/blob/main/images/powershell.svg" width="25">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/sbeegala/sbeegala/blob/main/images/terraform.svg" width="25">
+<img src="https://github.com/sbeegala/sbeegala/blob/main/images/Azure.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/sbeegala/sbeegala/blob/main/images/Azure%20DevOps.svg">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/sbeegala/sbeegala/blob/main/images/github.svg" width="25">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/sbeegala/sbeegala/blob/main/images/powershell.svg" width="25">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/sbeegala/sbeegala/blob/main/images/terraform.svg" width="25">
 
 --------------
 <!--
